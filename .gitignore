@@ -1,0 +1,12 @@
+# Open Images Dataset files
+OIDv6/
+
+# Images
+images/
+dataset/
+
+# IPythonNotebook files
+.ipynb_checkpoints/
+
+# Model
+model/
