@@ -20,13 +20,6 @@
 *** for contributors-url, forks-url, etc. This is an optional, concise syntax you may use.
 *** https://www.markdownguide.org/basic-syntax/#reference-style-links
 -->
-[![Contributors][contributors-shield]][contributors-url]
-[![Forks][forks-shield]][forks-url]
-[![Stargazers][stars-shield]][stars-url]
-[![Issues][issues-shield]][issues-url]
-[![MIT License][license-shield]][license-url]
-[![LinkedIn][linkedin-shield]][linkedin-url]
-
 
 
 <!-- PROJECT LOGO -->
@@ -176,22 +169,3 @@ Project Link: [https://github.com/Iarrova/FasterRCNN](https://github.com/Iarrova
 
 * [README Template](https://github.com/othneildrew/Best-README-Template/)
 * [FasterRCNN for Open Images Dataset](https://github.com/RockyXu66/Faster_RCNN_for_Open_Images_Dataset_Keras/)
-
-
-
-
-
-<!-- MARKDOWN LINKS & IMAGES -->
-<!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: https://img.shields.io/github/contributors/Iarrova/repo.svg?style=for-the-badge
-[contributors-url]: https://github.com/Iarrova/repo/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/Iarrova/repo.svg?style=for-the-badge
-[forks-url]: https://github.com/Iarrova/repo/network/members
-[stars-shield]: https://img.shields.io/github/stars/Iarrova/repo.svg?style=for-the-badge
-[stars-url]: https://github.com/Iarrova/repo/stargazers
-[issues-shield]: https://img.shields.io/github/issues/Iarrova/repo.svg?style=for-the-badge
-[issues-url]: https://github.com/Iarrova/repo/issues
-[license-shield]: https://img.shields.io/github/license/Iarrova/repo.svg?style=for-the-badge
-[license-url]: https://github.com/Iarrova/repo/blob/master/LICENSE.txt
-[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
-[linkedin-url]: https://linkedin.com/in/Iarrova
